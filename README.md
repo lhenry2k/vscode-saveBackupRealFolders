@@ -1,3 +1,7 @@
+this is a fork of vscode-saveBackup edited by gtp4.
+The original was not replicating full folder structures on $backupDir
+
+
 # saveBackup README
 
 This is a vscode extension for backup file when you save.
